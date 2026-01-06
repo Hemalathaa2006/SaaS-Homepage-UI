@@ -7,7 +7,6 @@ This project is created using **HTML and Tailwind CSS**.
 
 - Professional SaaS-style homepage layout
 - Navigation bar with brand name
-- Hero section with call-to-action
 - Features section
 - Pricing section
 - Clean footer design
@@ -19,4 +18,5 @@ This project is created using **HTML and Tailwind CSS**.
 - Tailwind CSS
 
 ## live link 
+
 - https://hemalathaa2006.github.io/SaaS-Homepage-UI/
